@@ -18,4 +18,4 @@ Rear Camera  | 13.0 MP, LED flash
 Front Camera | 5.0 MP
 Release Date | Sep. 2016
 
-![Xiaomi Redmi 3](http://c1.mifile.cn/f/i/16/hongmi3/overall-verson-02.jpg "Xiaomi Redmi 3")
+![Xiaomi Redmi 3](http://c1.mifile.cn/f/i/16/hongmi3/overall-miui-product-c.jpg "Xiaomi Redmi 3")
