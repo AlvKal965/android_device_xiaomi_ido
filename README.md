@@ -6,7 +6,7 @@ Device configuration for Xiaomi Redmi 3.
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Quad-core 1.5 GHz Cortex-A53 & quad-core 1.2 GHz Cortex-A53
-CHIPSET | Qualcomm MSM8916 Snapdragon 616
+CHIPSET | Qualcomm MSM8939 Snapdragon 616
 GPU     | Adreno 405
 Memory  | 2 GB
 Shipped Android Version | 5.1.1
